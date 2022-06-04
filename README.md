@@ -1,5 +1,8 @@
 # education-courses-ui-design
 
+![Education Courses UI Design template](/static/Thumb.png)
+Build on top of nuxt, boostrap vue, and design inspire from [Education Courses UI Design](https://figmatemplates.net/free-education-courses-ui-design/)
+
 ## Build Setup
 
 ```bash

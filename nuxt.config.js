@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'education-courses-ui-design',
+    title: 'Free Education Courses UI Design',
     htmlAttrs: {
       lang: 'en',
     },
@@ -10,6 +10,35 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'Build on top of nuxt, boostrap vue, and design inspire from [Education Courses UI Design]',
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: '/Thumb.png',
+      },
+      {
+        hid: 'og:title',
+        name: 'og:title',
+        content: 'Free Education Courses UI Design',
+      },
+      {
+        name: 'og:site_name',
+        content: 'web developer',
+      },
+      {
+        prefix: 'og: https://ogp.me/ns#',
+      },
+      {
+        hid: 'og:description',
+        name: 'og:description',
+        content:
+          'Build on top of nuxt, boostrap vue, and design inspire from [Education Courses UI Design]',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },

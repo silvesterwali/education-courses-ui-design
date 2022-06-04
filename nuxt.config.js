@@ -14,7 +14,7 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'Build on top of nuxt, boostrap vue, and design inspire from [Education Courses UI Design]',
+          'Build on top of nuxt, bootstrap vue, and design inspire from [Education Courses UI Design]',
       },
       {
         hid: 'og:image',
@@ -37,7 +37,7 @@ export default {
         hid: 'og:description',
         name: 'og:description',
         content:
-          'Build on top of nuxt, boostrap vue, and design inspire from [Education Courses UI Design]',
+          'Build on top of nuxt, bootstrap vue, and design inspire from [Education Courses UI Design]',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],

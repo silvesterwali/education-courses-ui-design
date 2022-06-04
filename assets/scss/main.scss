@@ -1,0 +1,8 @@
+$body-bg: #fafafa;
+$enable-rounded: true;
+$primary: #725cff;
+$enable-shadow: true;
+$border-radius-lg: 10px;
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../../node_modules/bootstrap-vue/src/index.scss';

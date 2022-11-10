@@ -20,7 +20,7 @@
     "bootstrap": "^4.6.1",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.19.3",
-    "node-sass": "^6.0.0",
+    "node-sass": "^8.0.0",
     "nuxt": "^2.15.8",
     "sass-loader": "^10.1.1",
     "vue": "^2.6.14",
